@@ -4,11 +4,11 @@
 
 Suffix all of you css selectors with anything
 
-    npm i rework-suffix
+    npm i rework-suffixer
 
 ```js
 rework(str)
-  .use(function(node){return require('rework-suffix')(node, {suffix: ".wow"})})
+  .use(function(node){return require('rework-suffixer')(node, {suffix: ".wow"})})
 ```
 
 Turns

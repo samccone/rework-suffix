@@ -1,5 +1,5 @@
 {
-  "name": "rework-suffix",
+  "name": "rework-suffixer",
   "version": "0.0.1",
   "dependencies": {
     "rework": "^1.0.0",
