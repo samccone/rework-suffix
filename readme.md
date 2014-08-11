@@ -1,9 +1,10 @@
 # Rework Suffix
 
+[![Build Status](https://travis-ci.org/samccone/rework-suffix.svg)](https://travis-ci.org/samccone/rework-suffix)
+
 Suffix all of you css selectors with anything
 
     npm i rework-suffix
-
 
 ```js
 rework(str)
