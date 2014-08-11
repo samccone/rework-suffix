@@ -8,7 +8,7 @@ Suffix all of you css selectors with anything
 
 ```js
 rework(str)
-  .use(function(node){return require('rework-suffix')(node, opts)})
+  .use(function(node){return require('rework-suffix')(node, {suffix: ".wow"})})
 ```
 
 Turns
@@ -27,4 +27,4 @@ h1 body html div input[type="bam"].wow { color: red; }
 
 This tool takes a single option object with a single pair of
 
-suffix: ".bam"
+    suffix: ".bam"
