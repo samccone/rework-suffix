@@ -1,0 +1,15 @@
+.foo {
+  color: red;
+}
+
+#bam {
+  color: red;
+}
+
+div {
+  color: red;
+}
+
+input[type="bam"] {
+  color: red;
+}

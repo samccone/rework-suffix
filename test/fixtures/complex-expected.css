@@ -1,0 +1,15 @@
+span > .foo.bkr {
+  color: red;
+}
+
+p > #bam.bkr {
+  color: red;
+}
+
+li ul li:nth-child(2) > div.bkr {
+  color: red;
+}
+
+h1 body html div input[type="bam"].bkr {
+  color: red;
+}

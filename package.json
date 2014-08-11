@@ -1,0 +1,16 @@
+{
+  "name": "rework-suffix",
+  "version": "0.0.1",
+  "dependencies": {
+    "rework": "^1.0.0",
+    "rework-walk": "^1.0.0"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4",
+    "coffee-script": "^1.7.1"
+  }
+}

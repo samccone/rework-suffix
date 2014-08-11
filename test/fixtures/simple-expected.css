@@ -1,0 +1,15 @@
+.foo.bkr {
+  color: red;
+}
+
+#bam.bkr {
+  color: red;
+}
+
+div.bkr {
+  color: red;
+}
+
+input[type="bam"].bkr {
+  color: red;
+}
